@@ -1,0 +1,10 @@
+name: metrics-proxy
+summary: An example of collecting metrics by proxy 
+maintainer: Adam Israel <adam@adamisrael.com>
+description: |
+    Provide an example of collecting Juju Metrics from an appliance or remote host.
+series:
+  - xenial
+tags:
+  - misc
+subordinate: false

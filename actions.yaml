@@ -1,0 +1,2 @@
+collect-metrics:
+    description: "Manually execute the collect-metrics hook"

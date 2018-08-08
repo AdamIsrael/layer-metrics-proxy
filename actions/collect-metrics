@@ -1,0 +1,5 @@
+#!/bin/bash
+# Run the collect-metrics hook so it can be run on-demand or interactively
+# debugged via `juju debug-hooks unit/#`
+
+$CHARM_DIR/hooks/collect-metrics
