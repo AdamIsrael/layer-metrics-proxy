@@ -1,6 +1,6 @@
 includes:
     - layer:basic
-    - layer:sshproxy
+    - layer:vnfproxy
 options:
     basic:
         use_venv: false
